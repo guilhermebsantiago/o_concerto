@@ -1,6 +1,6 @@
 # O Concerto
 
-![O Concerto](https://imgur.com/O9qVeCh)
+![O Concerto](https://i.imgur.com/O9qVeCh.png)
 
 Bem-vindo(a) ao "O Concerto", um site inspirado na mágica cena do objeto 3D do patinho tocando violino no final. Este projeto foi criado para trazer à vida a beleza desse momento encantador, e para isso, um pequeno conto emocionante foi criado com a ajuda do ChatGPT, tornando essa cena ainda mais especial.
 
